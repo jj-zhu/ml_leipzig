@@ -40,7 +40,7 @@ Now, install keras for the deep learning session
     
 Finally, install the jupyter notebook extensions and configurator
 
-    conda install jupyter_contrib_nbextensions jupyter_nbextensions_configurator
+    conda -C conda-forge jupyter_contrib_nbextensions jupyter_nbextensions_configurator
     
 ### Test your installation
 
