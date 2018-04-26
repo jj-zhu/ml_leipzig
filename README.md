@@ -70,5 +70,25 @@ Activate the following extensions:
 
 If everything worked fine so far, you are well prepared for the workshop.
 
+## Recommended reading
+Fun book about ML (with zero math):
+- P Domingos, The Master Algorithm
+
+Online courses
+
+- A Ng’s ML/DL courses on Coursera
+- G Hinton’s course on Coursera
+- N de Freitas’s machine learning lectures
+- Stanford CS231n (deep learning, CNN stuff)
+
+Textbooks:
+
+- James et al., An Introduction to Statistical Learning with Applications in R
+- *Hastie et al., The Elements of Statistical Learning
+- *Murphy, Machine Learning: A Probabilistic Perspective
+- *Bishop, Pattern Recognition and Machine Learning
+- Goodfellow, Deep Learning
+
+
 JJ & Sebastian  
 MPI-IS
